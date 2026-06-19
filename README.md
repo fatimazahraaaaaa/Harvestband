@@ -177,14 +177,6 @@ harvestband/
 
 ---
 
-## Key Technical Note
-
-The `AnthropicAdapter` appends `/v1/messages` automatically.
-Set `ANTHROPIC_BASE_URL` **without** the `/v1` suffix.
-- Correct: `https://openrouter.ai/api`
-- Wrong: `https://openrouter.ai/api/v1`
-
----
 
 ## Research
 
