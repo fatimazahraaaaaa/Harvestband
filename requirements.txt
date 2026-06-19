@@ -1,0 +1,11 @@
+# HarvestBand — Multi-Agent Agri-Food Crisis Management
+# Built by Fatima Zahra Kabbab · Morocco
+
+# Band SDK
+thenvoi-sdk>=0.2.11
+
+# Anthropic-compatible API client (used by AnthropicAdapter)
+anthropic>=0.40.0
+
+# Environment variables
+python-dotenv>=1.0.0

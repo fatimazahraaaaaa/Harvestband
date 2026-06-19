@@ -1,0 +1,24 @@
+# HarvestBand — Agent Configuration
+# Copy this file to agent_config.yaml and fill in your Band agent UUIDs and API keys.
+# NEVER commit agent_config.yaml to version control.
+
+agents:
+  orchestrator:
+    uuid: "your-band-agent-uuid-here"
+    name: "HarvestOrchestrator"
+
+  farmer:
+    uuid: "your-band-agent-uuid-here"
+    name: "FarmerAgent"
+
+  logistics:
+    uuid: "your-band-agent-uuid-here"
+    name: "LogisticsAgent"
+
+  buyer:
+    uuid: "your-band-agent-uuid-here"
+    name: "BuyerAgent"
+
+  risk:
+    uuid: "your-band-agent-uuid-here"
+    name: "RiskAgent"
